@@ -1,6 +1,5 @@
 ### Ciao 👋
-
-
+I am Matteo and working as a Lead Developer for for <a href="https://www.namirial.it">Namirial</a> in Italy.
 
 <!--
 **matteogalli/matteogalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
